@@ -1,6 +1,6 @@
 bits: flag count state temp1 temp2
 
-setup (swap spaces for + if you want a solid cell)
+setup (swap spaces for a plus if you want a solid cell)
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 >>>+S>>+>> >>>+>> >>>+>> >>>+>> >>>+>> >>>+>> >>>+>> >>>+>> >>>>>>>>
 >>>+S>>+>> >>>+>> >>>+>> >>>+>> >>>+>> >>>+>> >>>+>> >>>+>> >>>>>>>>
